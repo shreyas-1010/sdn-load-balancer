@@ -6,7 +6,6 @@
 
 [![OpenFlow](https://img.shields.io/badge/OpenFlow-1.3-blue?style=flat-square)](#)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blueviolet?style=flat-square)](#)
-[![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](#)
 [![Topology](https://img.shields.io/badge/Mininet-Emulated-orange?style=flat-square)](#)
 
 </div>
