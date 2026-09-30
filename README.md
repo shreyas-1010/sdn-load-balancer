@@ -92,6 +92,3 @@ make plot
 
 ---
 
-## License
-
-MIT © 2024
