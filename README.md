@@ -86,8 +86,7 @@ make plot
 ## Documentation Index
 
 * Detailed pipeline diagrams: [`docs/ARCHITECTURE.md`](docs/ARCHITECTURE.md)
-* Complete lab report: [`docs/REPORT.md`](docs/REPORT.md)
-* Presentation slide deck: [`docs/PRESENTATION.md`](docs/PRESENTATION.md)
+* Report: [`docs/REPORT.md`](docs/REPORT.md)
 
 ---
 
