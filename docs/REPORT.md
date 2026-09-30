@@ -1,6 +1,6 @@
 # SDN-Based Load Balancing and Server Response Time Optimization
 
-**Course Module:** Software-Defined Networking Lab (2-Hour Capstone)  
+**Course Module:** Software-Defined Networking Lab  
 **Environment:** Mininet 2.3.0, Open vSwitch 2.17, Ryu 4.34, Python 3.10  
 
 ---
